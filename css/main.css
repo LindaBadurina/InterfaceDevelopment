@@ -1,0 +1,16 @@
+.jug {
+    float:right;
+    margin-right: 10%;
+    margin-top: 020px;
+}
+
+.orange {
+    float:left;
+    margin-left: 20%;
+    margin-top: 180px;
+}
+
+.score {
+    text-align: center;
+    margin-top: 100px;
+}
